@@ -1,0 +1,17 @@
+.about_us{
+	font-size: 32px;
+	font-family:HelveticaNeueBold;
+	margin-left: 240px;
+}
+.container_about{
+	width: 463px;
+    height: 604px;
+    margin-top: 60px;
+    margin-left: 240px;
+    font-family: Helvetica;
+}
+.foto_css{
+	width: 707px;
+	height: 707px;
+
+}
