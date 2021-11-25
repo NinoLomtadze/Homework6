@@ -42,6 +42,37 @@ a {
 	position: absolute;
 }
 .img_style{
-	width: 700px;
-	height: 700px;
+	width: 707px;
+	height: 707px;
+    padding: 0px;
+    box-shadow: 12px 7px blue;
+    border-radius: 35px;
 }
+.My_img{
+	width: 707px;
+	height: 707px;
+	border-radius: 35px;
+   	box-shadow: -20px 6px blue;
+    border-radius: 35px;
+}
+.My_span{
+	font-size: 32px;
+	margin-left: 138px;
+	font-family: Helvetica;
+}
+.My_p{
+	width: 465px;
+	height: 365px;
+	margin-left: 138px;
+	margin-top: 60px;
+	font-family: Helvetica;
+}
+.My_container{
+	display: flex;
+    align-items: center;
+    margin-top: 394px;
+}
+.for_imgmove{
+	margin-top: 600px;
+}
+
