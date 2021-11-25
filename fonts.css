@@ -8,14 +8,3 @@
         url('../fonts/22afedaab5a5177410b408023384af22d.svg#Helvetica Neue LT W01 55 Roman') format('svg'); /* iOS 4.1- */
 }
 
-@font-face {
-    font-family: 'HelveticaNeue';
-    src: url('../fonts/HelveticaNeueBold.eot');
-    src: url('../fonts/HelveticaNeueBold.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/HelveticaNeueBold.woff2') format('woff2'),
-        url('../fonts/HelveticaNeueBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
