@@ -7,7 +7,6 @@
         url('../fonts/22afedaab5a5177410b408023384af22d.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
         url('../fonts/22afedaab5a5177410b408023384af22d.svg#Helvetica Neue LT W01 55 Roman') format('svg'); /* iOS 4.1- */
 }
-}
 
 @font-face {
     font-family: 'HelveticaNeue';
